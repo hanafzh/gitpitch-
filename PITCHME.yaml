@@ -1,1 +1,14 @@
-
+theme : night
+theme-override : asset/css/PITCHME.css
+logo : asset/images/masjid-agung-banten.jpg
+highlight : atom-one-light
+transition : concave
+published : true
+footnote : "Banten Development Presentasi Online"
+remote-control: true
+slide-number : true
+background : /asset/images/wallpaper.jpg
+background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
